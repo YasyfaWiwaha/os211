@@ -35,7 +35,6 @@
 #   L21 VirtualBox: install GNU/Linux, etc.
 #   L22 YouTube: study, etc.
 #   L99 Other (...)
-
 ZCZC W00 15 L03 GitHub related
 ZCZC W00 5 L01 SCELE related
 ZCZC W00 60 L02 ZOOM related
