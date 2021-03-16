@@ -49,3 +49,23 @@ ZCZC W01 60 L10 Assignment 7-8
 ZCZC W01 0 L10 Finished all W01 assginment
 ZCZC W01 15 L23 Read Discord's discussion
 ZCZC W01 2 L23 Read Discord's announcement
+ZCZC W02 60 L06 Read materials
+ZCZC W02 35 L25 learn C
+ZCZC W02 20 L13 Generate GnuPG key pair
+ZCZC W02 10 L10 Reading the slides to do assignment
+ZCZC W02 5 L11 Read https://os.vlsm.org/Slides/check02.pdf
+ZCZC W02 45 L12 Read: (OSC10 chapter 16 + chapter 17)
+ZCZC W02 30 L13 Tried Demo week 2
+ZCZC W02 10 L15 Imported public key
+ZCZC W02 15 L16 Export my public key
+ZCZC W02 10 L17 Ranked top 3 pages from W01
+ZCZC W02 200 L05 search/read/watch stuff for my top 10 pages
+ZCZC W02 20 L18 Update W02 top 10 pages
+ZCZC W02 5 L19 Copied myscript.sh from cbkadal
+ZCZC W02 15 L20 Update mylog
+ZCZC W02 45 L20 Make SHA256SUM
+ZCZC W02 30 L27 Pets: Playing with my cat
+ZCZC W02 15 L23 Read Discord's discussion
+ZCZC W02 5 L23 Read Discord's announcement
+ZCZC W02 120 L26 playing with my friends
+ZCZC W02 90 L26 Watched a movie
