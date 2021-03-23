@@ -69,3 +69,15 @@ ZCZC W02 15 L23 Read Discord's discussion
 ZCZC W02 5 L23 Read Discord's announcement
 ZCZC W02 120 L26 playing with my friends
 ZCZC W02 90 L26 Watched a movie
+ZCZC W03 30 L06 Read materials
+ZCZC W03 75 L02 Attend class
+ZCZC W03 10 L10 Reading the slides to do assignment
+ZCZC W03 30 L11 skim: (OSC10 chapter 13,14,15)
+ZCZC W03 15 L12 Finished W02 demo.
+ZCZC W03 40 L13 Fixing my .bash_aliases that is full of mistakes(Pain...)
+ZCZC W03 10 L14 Rank my neighbors.
+ZCZC W03 75 L15 Search, read, watch materials and made my top 10 list.
+ZCZC W03 5 L16 Update mylog.txt
+ZCZC W03 3 L17 download file and move them over
+ZCZC W03 5 L18 Update bash script
+ZCZC W03 2 L19 Make SHA256SUM and sign it
