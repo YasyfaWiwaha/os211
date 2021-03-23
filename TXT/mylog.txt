@@ -78,6 +78,6 @@ ZCZC W03 40 L13 Fixing my .bash_aliases that is full of mistakes(Pain...)
 ZCZC W03 10 L14 Rank my neighbors.
 ZCZC W03 75 L15 Search, read, watch materials and made my top 10 list.
 ZCZC W03 5 L16 Update mylog.txt
-ZCZC W03 3 L17 download file and move them over
+ZCZC W03 12 L17 download file and move them over
 ZCZC W03 5 L18 Update bash script
 ZCZC W03 2 L19 Make SHA256SUM and sign it
