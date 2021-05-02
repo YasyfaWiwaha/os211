@@ -10,3 +10,4 @@ Operating Systems 2021-1 (Semester Genap 2020/2021).
 - [W03](w03.md)
 - [W04](w04.md)
 - [W05](w05.md)
+- [W07](w07.md)
