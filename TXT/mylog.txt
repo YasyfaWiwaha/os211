@@ -88,3 +88,9 @@ ZCZC W05 45 L06 Read materials
 ZCZC W05 150 L10 Week 0 assignment in general
 ZCZC W05 10 L23 Read OS's Discord server in general
 ZCZC W05 10 L04 Update the homepage and fix some typo on some pages.
+ZCZC W07 70 L02 Attend class
+ZCZC W07 30 L06 Read materials
+ZCZC W07 90 L05 Search for some materials to help me understand W07 materials, also to pun on top 10 list.
+ZCZC W07 150 L10 Week 07 assignment in general
+ZCZC W07 15 L23 Read Discord's discussion
+ZCZC 207 120 L26 Wath "Nausicaa of the Valley of the Wind", a really good movie.
