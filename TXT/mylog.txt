@@ -94,3 +94,9 @@ ZCZC W07 90 L05 Search for some materials to help me understand W07 materials, a
 ZCZC W07 150 L10 Week 07 assignment in general
 ZCZC W07 15 L23 Read Discord's discussion
 ZCZC 207 120 L26 Wath "Nausicaa of the Valley of the Wind", a really good movie.
+=
+ZCZC W08 70 L02 Attend class
+ZCZC W08 30 L06 Read materials
+ZCZC W08 45 L05 Search for some materials to help me understand W07 materials, also to pun on top 10 list.
+ZCZC W08 480 L10 Week 07 assignment in general
+ZCZC W08 15 L23 Read Discord's discussion
