@@ -102,7 +102,7 @@ ZCZC W08 15 L23 Read Discord's discussion
 ZCZC W09 35 L11 Read materials
 ZCZC W09 10 L12 ranked my neighbor
 ZCZC W09 75 L13 GSGS for top 10 list
-ZCZC W09 360 L14 LFS 5-7.1 (Painfully waiting process with potato PC)
+ZCZC W09 360 L14 LFS 5-6 (Painfully waiting process with potato PC)
 ZCZC W09 5 L15 Report
 ZCZC W09 5 L16 Update log
 ZCZC W09 5 L17 Made and signed SHA256SUM
